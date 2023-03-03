@@ -1,0 +1,6 @@
+[19-Apr-2022 16:01:11 Europe/Berlin] PHP Warning:  POST Content-Length of 11910360 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[19-Apr-2022 16:02:15 Europe/Berlin] PHP Warning:  POST Content-Length of 11910360 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[19-Apr-2022 16:12:39 Europe/Berlin] PHP Warning:  POST Content-Length of 11910360 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[19-Apr-2022 16:20:25 Europe/Berlin] PHP Warning:  POST Content-Length of 11910360 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[19-Apr-2022 16:22:00 Europe/Berlin] PHP Warning:  POST Content-Length of 11910360 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[09-May-2022 22:58:48 Europe/Berlin] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 66890280 bytes) in C:\stack_web_php_73\htdocs73\usuarios\controllers\Procedimientos.php on line 58
